@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../vrep_pkg/include/steeringwheel.h
+
+/home/chrisliu/桌面/Notes/Vrep/V-Rep_Steeringwheel_tutorial/vrep_ws/src/vrep_pkg/src/steeringwheel.cpp
+steeringwheel.h
+/home/chrisliu/桌面/Notes/Vrep/V-Rep_Steeringwheel_tutorial/vrep_ws/src/vrep_pkg/src/steeringwheel.h
+math.h
+-
+

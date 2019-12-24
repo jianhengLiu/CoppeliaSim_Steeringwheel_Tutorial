@@ -1,0 +1,8 @@
+prefix=/home/chrisliu/桌面/Notes/Vrep/V-Rep_Steeringwheel_tutorial/vrep_ws/src/vrep_pkg/cmake-build-debug/devel
+
+Name: vrep_pkg
+Description: Description of vrep_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/chrisliu/桌面/Notes/Vrep/V-Rep_Steeringwheel_tutorial/vrep_ws/src/vrep_pkg/cmake-build-debug/devel/lib 
+Requires: 
