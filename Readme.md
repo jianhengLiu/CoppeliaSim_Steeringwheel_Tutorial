@@ -509,8 +509,7 @@ end
 function getTransformStamped(objHandle, name, relTo, relToName)
     t = sim.getSystemTime()
     p = sim.getObjectPosition(objHandle, relTo)
-    o = sim.getObjectQuate	 angular vel: -0.5 
-rnion(objHandle, relTo)
+    o = sim.getObjectQuaternion(objHandle, relTo)
     return {
         header = {
             stamp = t,
